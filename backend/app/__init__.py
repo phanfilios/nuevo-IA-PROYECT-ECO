@@ -1,0 +1,1 @@
+"""EcoPark AI backend package."""
