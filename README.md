@@ -3,6 +3,7 @@
 EcoPark AI is a functional MVP for generating **preliminary** ecological-park concepts from a rectangular terrain and explicit project requirements. It produces three deterministic alternatives, validates them geometrically, renders them in 2D, stores projects and exports validated results to DXF, GeoJSON and SVG.
 
 > Important: EcoPark AI does not replace professional engineering, architecture, hydrology, environmental-impact, accessibility, regulatory, permitting or agronomic studies. Plant suggestions and designs are preliminary.
+>Remember to create and add the 'frontend' folder inside 'frontend'. It should have .next, app, components, lib, node_modules, styles, .eslintrc, Dockerfile, next.config, next-env.d, package, package-lock, and tsconfig. The 'frontend' folder should be outside—don’t put it inside another folder that isn’t named after the repo, redundancy aside.
 
 ## Architecture
 
